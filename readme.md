@@ -1,13 +1,3 @@
----
-title: Local Authentication Lab - Username/Password
-type: lab
-duration: "1:25"
-creator:
-    name: Gerry Mathe
-    city: London
-competencies: Server Applications
----
-
 # Local Authentication Lab - Username/Password
 
 ## Introduction
